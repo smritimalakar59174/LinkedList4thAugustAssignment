@@ -1,0 +1,7 @@
+E:\DotNet\ConsoleFirstApps\Assign4thAugLinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+E:\DotNet\ConsoleFirstApps\Assign4thAugLinkedList\LinkedList\bin\Debug\LinkedList.exe
+E:\DotNet\ConsoleFirstApps\Assign4thAugLinkedList\LinkedList\bin\Debug\LinkedList.pdb
+E:\DotNet\ConsoleFirstApps\Assign4thAugLinkedList\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+E:\DotNet\ConsoleFirstApps\Assign4thAugLinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleFirstApps\Assign4thAugLinkedList\LinkedList\obj\Debug\LinkedList.exe
+E:\DotNet\ConsoleFirstApps\Assign4thAugLinkedList\LinkedList\obj\Debug\LinkedList.pdb
